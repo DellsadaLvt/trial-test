@@ -4,4 +4,8 @@
 // ok i have push data on github////
 now i can push data 
 i will push data again
+<<<<<<< HEAD
 dsafa
+=======
+and now i will change the text on web
+>>>>>>> 67295c627a45724e33bf2e14d29a522e71fcbec0
