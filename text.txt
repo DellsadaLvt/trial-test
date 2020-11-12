@@ -3,3 +3,4 @@
 // i get the problem in push data to github
 // ok i have push data on github////
 now i can push data 
+now I change the data on web and i will push data from my laptop. let's take a look at the result. 
